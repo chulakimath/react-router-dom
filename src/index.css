@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+::selection{
+    color: yellow;
+    background-color:black;
+}
+*{
+    font-family: cursive;
+}

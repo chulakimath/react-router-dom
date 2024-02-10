@@ -5,8 +5,6 @@ import { useLoaderData } from 'react-router-dom'
 
 function Github() {
   const data = useLoaderData();
-
-  console.log(data)
   return (
     <>
       <div className='flex justify-center py-10 max-sm:py-4'>

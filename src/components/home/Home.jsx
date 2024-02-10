@@ -24,7 +24,7 @@ const Home = () => {
                             </p>
                         </div>
                         <div className='text-right mt-4 pr-6 max-sm:text-center max-sm:pr-0'>
-                            <button className='bg-blue-800 rounded-md px-5 py-2 text-white'>Github ....</button>
+                            <Link to={'github'} className='bg-blue-800 rounded-md px-5 py-2 text-white'>Github ....</Link>
                         </div>
                     </div>
                 </div>
